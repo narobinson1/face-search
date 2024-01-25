@@ -23,8 +23,9 @@ class Register extends React.Component {
   }
 
   onSubmitSignIn = () => {
-    fetch('https://face-search-api.onrender.com/register', {
+    fetch('https://face-search-api.onrender.com/register/', {
       method: 'post',
+      mode: 'cors',
       headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({
         email: this.state.email,
@@ -33,8 +34,7 @@ class Register extends React.Component {
       })
     })
       .then((response) => {
-        response.json();
-        console.log(response.json());
+        console.log("error:", response.json());
       })
       .then(user => {
         if (user.id) {
