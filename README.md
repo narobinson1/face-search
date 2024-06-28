@@ -2,7 +2,7 @@
 
 Find faces in your photos!
 
-#### Access here => ⚠️ **Unavailable due to hosting issues! Will be ready again soon.** ⚠️
+#### Access here => ⚠️ _Unavailable due to hosting issues! Will be ready again soon._ ⚠️
 
 #### Checkout a brief video demo! => https://youtu.be/nADQyDK6UMs
 
