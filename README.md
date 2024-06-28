@@ -1,12 +1,9 @@
-# FaceSearch
+# FaceSearch 🤠
 
-Instructions for installation:
-1. Download repo to local folder
-2. Run `npm install`
-3. Run `npm start`
+Find faces in your photos!
 
-## Access here: Unavailable due to hosting issues! Will be ready again soon.
+## Access here: ⚠️ Unavailable due to hosting issues! Will be ready again soon. ⚠️
 
 ## Brief video demo: https://youtu.be/nADQyDK6UMs
 
-### Find face-search-api in my repos for backend api
+P.S. Find face-search-api in my repos for backend api
